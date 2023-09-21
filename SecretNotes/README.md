@@ -1,0 +1,1 @@
+![](https://github.com/MustafaEsatTemel/PythonApps/tree/master/SecretNotes/Animation.gif)
